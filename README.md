@@ -1,2 +1,2 @@
 # SwearJar
-Python code for a swear jar running on a Raspberry PI.
+Collection of python, and audio files used in our swear jar project on the Raspberry PI.
